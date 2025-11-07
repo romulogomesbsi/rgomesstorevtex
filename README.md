@@ -6,6 +6,29 @@ Um aplicativo de e-commerce Flutter integrado com a plataforma VTEX, desenvolvid
 
 O RGomes Store é uma aplicação completa de e-commerce que permite aos usuários navegar por produtos, adicionar itens ao carrinho e realizar pedidos. O app consome dados da API VTEX e oferece uma experiência de compra moderna e intuitiva.
 
+### 📸 Screenshots
+
+> **Nota**: Para visualizar as screenshots, adicione as imagens na pasta `assets/screenshots/` do repositório e atualize os links abaixo.
+
+<div align="center">
+  <img src="assets/screenshots/products_screen.png" alt="Tela de Produtos com filtros por categoria" width="200"/>
+  <img src="assets/screenshots/category_filter.png" alt="Filtro de categoria ativo" width="200"/>
+  <img src="assets/screenshots/cart_screen.png" alt="Carrinho com item adicionado" width="200"/>
+</div>
+
+<div align="center">
+  <img src="assets/screenshots/checkout_screen.png" alt="Tela de checkout com resumo do pedido" width="200"/>
+  <img src="assets/screenshots/processing_payment.png" alt="Processando pagamento" width="200"/>
+  <img src="assets/screenshots/order_confirmed.png" alt="Pedido confirmado com sucesso" width="200"/>
+</div>
+
+**Funcionalidades demonstradas:**
+- 🏪 Catálogo de produtos com categorias (Drinks, Clothing, Tops, etc.)
+- 🔍 Sistema de filtros por categoria
+- 🛒 Carrinho de compras com contador
+- 💳 Fluxo de checkout completo
+- ✅ Confirmação de pedido
+
 ### ✨ Funcionalidades
 
 - 📋 Listagem de produtos com filtros por categoria
