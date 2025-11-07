@@ -196,7 +196,7 @@ Veja abaixo algumas telas do aplicativo RGomes Store:
 ## 👨‍💻 Desenvolvedor
 
 **Rômulo Gomes**
-- GitHub: [@romulogomesbsi]([https://github.com/seu-usuario](https://github.com/romulogomesbsi))
+- GitHub: [@romulogomesbsi]([https://github.com/romulogomesbsi])
 - LinkedIn: [in/romulogomesdev]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/romulogomesdev/))
 
 ## 📄 Licença
