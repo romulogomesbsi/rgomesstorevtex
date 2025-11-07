@@ -194,10 +194,9 @@ Veja abaixo algumas telas do aplicativo RGomes Store:
 <img width="300" height="500" alt="Screenshot_1762517746" src="https://github.com/user-attachments/assets/20d1a028-f41c-47dc-9d1a-2f697c905721" />
 
 ## 👨‍💻 Desenvolvedor
-
-**Rômulo Gomes**
-- GitHub: [@romulogomesbsi]([https://github.com/romulogomesbsi])
-- LinkedIn: [in/romulogomesdev]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/romulogomesdev/))
+**Rômulo Gomes**  
+- GitHub: [@romulogomesbsi](https://github.com/romulogomesbsi)
+- LinkedIn: [romulogomesdev](https://www.linkedin.com/in/romulogomesdev/)
 
 ## 📄 Licença
 
