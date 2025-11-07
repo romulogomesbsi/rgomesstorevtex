@@ -181,11 +181,23 @@ O projeto está preparado para testes unitários e de widget:
 - [ ] Modo escuro
 - [ ] Internacionalização
 
+## 📸 Screenshots
+
+Veja abaixo algumas telas do aplicativo RGomes Store:
+
+<img width="300" height="500" alt="Screenshot_1762517742" src="https://github.com/user-attachments/assets/f152e428-c135-407e-92f1-439ab337d3ab" />
+<img width="300" height="500" alt="Screenshot_1762517760" src="https://github.com/user-attachments/assets/489d5696-b875-4a70-9fcf-5a8871ffbd32" />
+<img width="300" height="500" alt="Screenshot_1762517758" src="https://github.com/user-attachments/assets/23be4c70-983d-40aa-a91d-ccb9b8f0fddb" />
+<img width="300" height="500" alt="Screenshot_1762517756" src="https://github.com/user-attachments/assets/de1bf327-f746-437b-b2a4-1219f3a539b1" />
+<img width="300" height="500" alt="Screenshot_1762517752" src="https://github.com/user-attachments/assets/d1cd57ed-7d30-4fab-8ad3-9b704bd17653" />
+<img width="300" height="500" alt="Screenshot_1762517749" src="https://github.com/user-attachments/assets/38bbf9ff-da22-4a45-bac3-4ef9df7d937c" />
+<img width="300" height="500" alt="Screenshot_1762517746" src="https://github.com/user-attachments/assets/20d1a028-f41c-47dc-9d1a-2f697c905721" />
+
 ## 👨‍💻 Desenvolvedor
 
 **Rômulo Gomes**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- GitHub: [@romulogomesbsi]([https://github.com/seu-usuario](https://github.com/romulogomesbsi))
+- LinkedIn: [in/romulogomesdev]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/romulogomesdev/))
 
 ## 📄 Licença
 
